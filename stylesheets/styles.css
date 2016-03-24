@@ -1,0 +1,43 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #DAA520;
+}
+
+#header-nav {
+	background-color: #61122f;
+	border-radius: 0;
+	border:0;
+}
+
+.navbar-header h1{
+	color: #E5E4E2;
+	float: left;
+	font-size: 2.5em
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	text-align: center;
+	color: #E5E4E2;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+h2{
+	font-size: 2em;
+	background: #CCC;
+	color: #61122f;
+}
+
+#main-content {
+	background-color: #61122f;
+	height: 1000px;
+	
+}
+
